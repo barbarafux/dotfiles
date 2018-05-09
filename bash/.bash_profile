@@ -20,6 +20,8 @@ alias ...='cd ../../'
 alias .4='cd ../../../../'
 alias .5='cd ../../../../../'
 
+alias reload_bash='. ~/.bash_profile'
+
 export CLICOLOR=1
 export LSCOLORS=ExFxBxDxCxegedabagacad
 
